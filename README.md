@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a computer sciencist from Vietnam <br><br>- 🔭 I’m working as like a dog <br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I naping overtime i had</p>
 
 ###
 
