@@ -7,11 +7,11 @@
 
 ###
 
-<p align="left">I'm a computer sciencist from Vietnam <br><br>- 🔭 I’m working as like a dog <br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I naping overtime i had</p>
+<p align="left">I'm a data sciencist from Vietnam <br><br>- 🔭 I’m working as like a dog <br>- 📚 I'm currently learning AI and Machine Learning <br>- ⚡ In my free time I naping overtime i had</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools already i got</h3>
 
 ###
 
