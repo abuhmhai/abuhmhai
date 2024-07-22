@@ -36,13 +36,6 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abuhmhai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 ---
 
@@ -62,4 +55,4 @@
   </a>
 </p>
 
-<!-- <img src="https://raw.githubusercontent.com/namberino/namberino/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/abuhmhai/abuhmhai/output/snake.svg" alt="Snake animation" /> -->
