@@ -36,7 +36,6 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 
-
 ---
 
 <p align="center">
@@ -48,7 +47,7 @@
   </a>
   <br/> 
   <a href="https://abuhmhai.github.io">
-    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,Jupyter%20Notebook,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C,JavaScript,TSQL" />
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C,JavaScript,TSQL" />
   </a>
   <a href="https://github.com/abuhmhai/Advanced-Algorithms">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=Advanced-Algorithms&line_height=20&theme=gruvbox" />
