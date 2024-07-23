@@ -18,7 +18,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -47,7 +46,7 @@
   </a>
   <br/> 
   <a href="https://abuhmhai.github.io">
-    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C,JavaScript,TSQL" />
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,SmallTalk,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,TSQL" />
   </a>
   <a href="https://github.com/abuhmhai/Advanced-Algorithms">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=Advanced-Algorithms&line_height=20&theme=gruvbox" />
