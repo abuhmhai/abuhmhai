@@ -46,10 +46,10 @@
   </a>
   <br/> 
   <a href="https://abuhmhai.github.io">
-    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,SmallTalk,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,TSQL" />
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,SmallTalk,ShaderLab,HLSL,GLSL,SCSS,AGS%20Script,TSQL" />
   </a>
   <a href="https://github.com/abuhmhai/Advanced-Algorithms">
-    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=Advanced-Algorithms&line_height=20&theme=gruvbox" />
+    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=SentimentAnalysis_KNN&line_height=20&theme=gruvbox" />
   </a>
 </p>
 
