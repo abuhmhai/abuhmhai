@@ -1,5 +1,5 @@
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi guys 👋 I'm Hai</h1>
 
 ###
 
@@ -7,7 +7,12 @@
 
 ###
 
-<p align="left">I'm a data sciencist from Vietnam <br><br>- 🔭 I’m working as like a dog <br>- 📚 I'm currently learning AI and Machine Learning <br>- ⚡ In my free time I naping overtime i had</p>
+<p align="left">
+  Hi there! I'm currently a Junior at CMC University, Vietnam. <br><br>
+  - 🔭 I’m working like a dog and always eager to learn new things! <br>
+  - 📚 I’m diving into AI and Machine Learning studies. <br>
+  - ⚡ In my free time, I love catching up on some much-needed rest. 
+</p>
 
 ###
 
