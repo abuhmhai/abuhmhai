@@ -57,7 +57,7 @@
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,Vim%20Script,C%23,SmallTalk,ShaderLab,HLSL,GLSL,SCSS,AGS%20Script,TSQL" />
   </a>
   <a href="https://github.com/abuhmhai/SentimentAnalysis_KNN">
-    <img width="50.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=SentimentAnalysis_KNN&line_height=20&theme=gruvbox" />
+    <img width="50.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=Stock-Price-Prediction-X&line_height=20&theme=gruvbox" />
   </a>
 </p>
 
