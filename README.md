@@ -9,7 +9,7 @@
 
 <p align="left">
   Hi there! I'm currently a Junior at CMC University, Vietnam. <br><br>
-  - 🔭 I’m working like a dog and always eager to learn new things! <br>
+  - 🔭 I’m working like a dogs and always eager to learn new things! <br>
   - 📚 I’m diving into AI and Machine Learning studies. <br>
   - ⚡ In my free time, I love catching up on some much-needed rest. 
 </p>
