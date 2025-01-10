@@ -56,7 +56,7 @@
   <a href="https://abuhmhai.github.io">
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhmhai&layout=compact&theme=gruvbox&hide=SciLab,HTML,CSS,Vim%20Script,C%23,SmallTalk,ShaderLab,HLSL,GLSL,SCSS,AGS%20Script,TSQL" />
   </a>
-  <a href="https://github.com/abuhmhai/SentimentAnalysis_KNN">
+  <a href="https://github.com/abuhmhai/Stock-Price-Prediction-X">
     <img width="50.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=abuhmhai&repo=Stock-Price-Prediction-X&line_height=20&theme=gruvbox" />
   </a>
 </p>
